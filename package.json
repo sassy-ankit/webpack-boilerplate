@@ -1,0 +1,33 @@
+{
+	"name": "webpack-boilerplate",
+	"version": "0.1.0",
+	"description":
+		"A boilerplate based on webpack with babel, sass and dev-server for front-end development project",
+	"main": "src/js/app.js",
+	"scripts": {
+		"serve": "webpack-dev-server",
+		"build": "webpack -p"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sassy-ankit/webpack-boilerplate.git"
+	},
+	"keywords": ["weboack", "boilerplate", "babel", "sass", "css", "html"],
+	"author": "Ankitkumar Chheda",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/sassy-ankit/webpack-boilerplate/issues"
+	},
+	"homepage": "https://github.com/sassy-ankit/webpack-boilerplate#readme",
+	"devDependencies": {
+		"babel-core": "^6.26.0",
+		"babel-loader": "^7.1.2",
+		"babel-preset-env": "^1.6.1",
+		"css-loader": "^0.28.9",
+		"extract-text-webpack-plugin": "^3.0.2",
+		"node-sass": "^4.7.2",
+		"sass-loader": "^6.0.6",
+		"webpack": "^3.11.0",
+		"webpack-dev-server": "^2.11.1"
+	}
+}
