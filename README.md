@@ -14,5 +14,5 @@
 
     `$ npm run build`
 
-##NOTE
-\*\*To view an example, checkout branch '[001-With Example](../../tree/001-With-Example)'
+## NOTE
+**To view an example, checkout branch '[001-With Example](../../tree/001-With-Example)'**
