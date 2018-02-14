@@ -4,9 +4,10 @@
 
 # Put all sass/scss/css files in `src/sass` folder (If you like, you can also change the folder name `sass` to your liking)
 
-```javascript
-  # //To run live server,
+### To run live server,
+
     `$ npm run server`
-  # //To build upload ready file,
+
+### To build upload ready file,
+
     `$ npm run build`
-```
